@@ -1,1 +1,2 @@
-# project3
+# Project3 Machine Learning
+This project shows the value of using machine learning with cloud resources to enable applications that get "smarter" over time.  Please read the UCI Project 3.PPT or PDF for further details.
